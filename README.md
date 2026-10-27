@@ -1,4 +1,4 @@
-# Solar Panel Defect Detection with YOLO11s + SEAM + DSCA
+# SD-YOLOv11: A Novel Deep Learning Model for Solar Panel Defect Detection
 
 This repository provides the implementation of the solar panel defect detection method described in the paper.
 
